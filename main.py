@@ -1,8 +1,11 @@
-# Programmers: Harry Li, Antonio 
+# Programmers: Harry Li, Antonio Dueno
 # Course:  CS151 sec 06
 # Due Date: 10/2/2024
 # Lab Assignment: Ski jump
 # Problem Statement:  Let’s make a program to calculate the distance traveled based on speed and determine how many points they’d receive if they went that distance.
+# Data In: Hill type and Jumper Speed in Meters
+# Data Out: Distance traveled and points earned
+# Credits: Zybooks Homework 3
 
 import math 
 
